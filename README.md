@@ -2,7 +2,7 @@
 
 ## A Front-End Method for Exposing Ethical Failures in Language Models
 
-### What is SAP?
+## What is SAP?
 
 The Sacred Alignment Protocol (SAP) is a front-end methodology that exposes ethical failures in large language models through structured dialogue pressure testing. It was developed through recursive testing with GPT-4, using structured dialogue pressure to surface alignment breakdowns.
 
@@ -12,7 +12,7 @@ If a system cannot hold a principled “no,” it is not aligned. It is complian
 
 ---
 
-### Why This Matters
+## Why This Matters
 
 AI models today are praised for their fluency, safety layers, and moral language. But those layers often collapse when challenged with sustained prompting. SAP was designed to test what happens after the first refusal. Can the model hold its ethical ground? Or does it eventually yield?
 
@@ -20,7 +20,7 @@ The results reveal vulnerabilities in top-tier models that may not be visible th
 
 ---
 
-### Key Findings
+## Key Findings
 
 * Documented refusal breakdowns within as few as 3 dialogue turns  
 * Identified several refusal breakdown and consistency failure patterns in GPT-4 and Claude  
@@ -30,7 +30,7 @@ The results reveal vulnerabilities in top-tier models that may not be visible th
 
 ---
 
-### How SAP Works
+## How SAP Works
 
 SAP uses structured dialogue sequences to:
 
@@ -43,7 +43,7 @@ This isn’t speculation — it’s applied testing built from real-time interac
 
 ---
 
-### What's Included
+## What's Included
 
 * Methodology documentation and theoretical framework  
 * Anonymized examples of failure modes  
@@ -52,13 +52,13 @@ This isn’t speculation — it’s applied testing built from real-time interac
 
 ---
 
-### Current Status
+## Current Status
 
 SAP exists as a working methodology used directly by its creator through guided sessions. It is not yet a tool or platform others can deploy. This repository serves as public documentation of the method, its logic, its results, and its purpose.
 
 ---
 
-### Contact
+## Contact
 
 For funding discussions, collaboration, or research inquiries:  
 * Email: JLHewey65@gmail.com  
@@ -66,7 +66,7 @@ For funding discussions, collaboration, or research inquiries:
 
 ---
 
-### Funding Needs
+## Funding Needs
 
 This work has been conducted independently without institutional support. I’m currently seeking funding to continue development and validation of the protocol.
 
@@ -82,7 +82,7 @@ This work has been conducted independently without institutional support. I’m 
 
 ---
 
-### License
+## License
 
 All content in this repository is © 2025 JLHewey.  
 Available for academic discussion and citation under fair use.  
@@ -90,6 +90,6 @@ Contact required for commercial use or reproduction beyond quotation.
 
 ---
 
-### Disclaimer
+## Disclaimer
 
 This research is conducted for AI safety purposes and follows ethical guidelines for responsible disclosure.
