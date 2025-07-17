@@ -23,7 +23,7 @@ The results reveal vulnerabilities in top-tier models that may not be visible th
 ## Key Findings
 
 * Documented refusal breakdowns within as few as 3 dialogue turns  
-* Identified several refusal breakdown and consistency failure patterns in GPT-4 and Claude  
+* Identified several refusal breakdown and consistency failure patterns in GPT-4
 * Exposed ethical inconsistencies not visible through surface-level prompting  
 * Developed a repeatable method for stress-testing refusal logic  
 * Example: GPT-4 initially refused a morally ambiguous prompt. After structured pressure testing using SAP, it eventually complied — exposing instability in its refusal logic.
