@@ -78,7 +78,6 @@ This work has been conducted independently without institutional support. I’m 
 * Complete and publish a documented set of identified failure modes  
 * Expand cross-model comparison dataset through continued testing  
 * Submission of an academic paper for peer review  
-* Publication of a structured version of SAP for external study
 
 ---
 
