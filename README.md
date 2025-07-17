@@ -75,9 +75,18 @@ This work has been conducted independently without institutional support. I’m 
 
 **Deliverables include:**
 
-* Complete and publish a documented set of identified failure modes  
-* Expand cross-model comparison dataset through continued testing  
-* Submission of an academic paper for peer review  
+* A detailed, categorized report of ethical failure types across multiple leading models (GPT-4, Claude)
+
+*A growing cross-model testing dataset with annotated dialogue transcripts
+
+*A public-facing documentation system showing how failure patterns evolve under structured pressure
+
+*Submission of an academic-style paper for peer review or publication
+
+*Exploratory outreach to research institutions for collaborative validation
+
+*Optional: a video walk-through or screencast showing the protocol in action
+
 
 ---
 
